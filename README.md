@@ -1,2 +1,2 @@
 # TextCNN
-his is a tensorflow implementation of : Convolutional Neural Networks for Sentence Classfication
+This is a tensorflow implementation of : Convolutional Neural Networks for Sentence Classfication
