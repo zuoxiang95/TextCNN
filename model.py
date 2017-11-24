@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import tensorflow as tf
-import numpy as np
-from tensorflow.python import debug as tf_debug
 
 
 class TextCNN:
